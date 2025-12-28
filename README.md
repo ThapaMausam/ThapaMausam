@@ -68,7 +68,7 @@ I'm a **CSIT undergraduate student from Kathmandu, Nepal**, passionate about bui
 </div>
 
 <p align="center">
-  A complete blogging platform with user authentication, CRUD operations for posts, and real-time comments functionality.
+  A modern blog application that enables users to create, edit, view, and delete blog posts through a clean and intuitive interface.
 </p>
 
 <p align="center">
