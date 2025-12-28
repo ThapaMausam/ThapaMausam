@@ -53,16 +53,68 @@ I'm a **CSIT undergraduate student from Kathmandu, Nepal**, passionate about bui
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Fullstack Blog App** | A complete blogging platform with user auth, CRUD for posts, and comments. | React, Node.js, MongoDB | [Repo](https://github.com/ThapaMausam/fullstack-blog-app) |
-| **Real-time Todo** | A collaborative todo list where changes update instantly for all users. | Socket.io, Express.js | [Repo](https://github.com/ThapaMausam/realtime-todo-websocket) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📝 Fullstack Blog App</h3>
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+<p align="center">
+  A complete blogging platform with user authentication, CRUD operations for posts, and real-time comments functionality.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ThapaMausam/fullstack-blog-app">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">✅ Real-time Todo</h3>
+
+<div align="center">
+  
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+<p align="center">
+  A collaborative todo list where changes update instantly for all connected users using WebSocket technology.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ThapaMausam/realtime-todo-websocket">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 🎯 Quick Stats
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThapaMausam&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/> </div>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThapaMausam&theme=radical)
+
+</div>
 
 ---
 
@@ -85,8 +137,16 @@ I'm actively looking for **internships, collaboration opportunities, and learnin
 
 <div align="center">
 
+### 💭 Philosophy
 *"Write code that your future self will thank you for."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%"/>
+### ⚡ Believe In
+*Consistent small improvements > Writing perfect code once*
+
+<br>
+
+**Thanks for visiting my profile! Happy Coding! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
